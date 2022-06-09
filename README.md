@@ -4,12 +4,13 @@
 
 ----
 
-## My Skills :woman_technologist:
+## My Toolset :woman_technologist:
+<br><strong>Languages</strong><br>
 [![CSharp, Java, PHP, Python, HTML, CSS](https://skillicons.dev/icons?i=cs,java,php,py)](https://skillicons.dev)
-<br>
+<br><strong>Libraries & Frameworks</strong><br>
 [![Dotnet, React, Bootstrap, Tailwind](https://skillicons.dev/icons?i=dotnet,react,bootstrap,tailwind)](https://skillicons.dev)
-<br>
-[![git, mysql, mongodb, postgres](https://skillicons.dev/icons?i=git,mysql,mongodb,postgres)](https://skillicons.dev)
+<br><strong>Databases</strong><br>
+[![sqlite, mysql, mongodb, postgres](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres)](https://skillicons.dev)
 
 ---
 
