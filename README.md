@@ -16,11 +16,11 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [What the heck is SOLID?](https://lovelacecoding.hashnode.dev/what-the-heck-is-solid)
 - [20 Tech Related Dad Jokes to Make You Smile](https://lovelacecoding.hashnode.dev/20-tech-related-dad-jokes-to-make-you-smile)
 - [5 Easy Tips to Make Your Website More Accessible](https://lovelacecoding.hashnode.dev/5-easy-tips-to-make-your-website-more-accessible)
 - [Why You Should Learn C#](https://lovelacecoding.hashnode.dev/why-you-should-learn-c)
 - [How To Use a .env File With Python](https://lovelacecoding.hashnode.dev/how-to-use-a-env-file-with-python)
-- [Using Variables the Clean Way](https://lovelacecoding.hashnode.dev/using-variables-the-clean-way)
 <!-- BLOG-POST-LIST:END -->
  
 ---
