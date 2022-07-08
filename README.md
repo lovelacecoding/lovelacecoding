@@ -16,11 +16,11 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [.NET and Its Confusing Terms Explained](https://lovelacecoding.hashnode.dev/net-and-its-confusing-terms-explained)
 - [Do&#39;s and Don&#39;ts with Twitter DMs](https://lovelacecoding.hashnode.dev/dos-and-donts-with-twitter-dms)
 - [How To Increase Your Visibility as a Developer](https://lovelacecoding.hashnode.dev/how-to-increase-your-visibility-as-a-developer)
 - [What the heck is SOLID?](https://lovelacecoding.hashnode.dev/what-the-heck-is-solid)
 - [20 Tech Related Dad Jokes to Make You Smile](https://lovelacecoding.hashnode.dev/20-tech-related-dad-jokes-to-make-you-smile)
-- [5 Easy Tips to Make Your Website More Accessible](https://lovelacecoding.hashnode.dev/5-easy-tips-to-make-your-website-more-accessible)
 <!-- BLOG-POST-LIST:END -->
  
 ---
