@@ -16,11 +16,11 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [The Best Resources to Learn C# for Beginners](https://lovelacecoding.hashnode.dev/the-best-resources-to-learn-c-for-beginners)
 - [From a Woman’s Job to a Man’s World](https://lovelacecoding.hashnode.dev/from-a-womans-job-to-a-mans-world)
 - [Why You Can Be Successful Without a Mentor](https://lovelacecoding.hashnode.dev/why-you-can-be-successful-without-a-mentor)
 - [.NET and Its Confusing Terms Explained](https://lovelacecoding.hashnode.dev/net-and-its-confusing-terms-explained)
 - [Do&#39;s and Don&#39;ts with Twitter DMs](https://lovelacecoding.hashnode.dev/dos-and-donts-with-twitter-dms)
-- [How To Increase Your Visibility as a Developer](https://lovelacecoding.hashnode.dev/how-to-increase-your-visibility-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
  
 ---
