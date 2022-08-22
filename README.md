@@ -16,11 +16,11 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [Grow Your Twitter Account From 0 to 25k](https://lovelacecoding.hashnode.dev/grow-your-twitter-account-from-0-to-25k)
 - [The Best Resources to Learn C# for Beginners](https://lovelacecoding.hashnode.dev/the-best-resources-to-learn-c-for-beginners)
 - [From a Woman’s Job to a Man’s World](https://lovelacecoding.hashnode.dev/from-a-womans-job-to-a-mans-world)
 - [Why You Can Be Successful Without a Mentor](https://lovelacecoding.hashnode.dev/why-you-can-be-successful-without-a-mentor)
 - [.NET and Its Confusing Terms Explained](https://lovelacecoding.hashnode.dev/net-and-its-confusing-terms-explained)
-- [Do&#39;s and Don&#39;ts with Twitter DMs](https://lovelacecoding.hashnode.dev/dos-and-donts-with-twitter-dms)
 <!-- BLOG-POST-LIST:END -->
  
 ---
