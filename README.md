@@ -16,11 +16,11 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [How to Pass Your Certification Exam](https://lovelacecoding.hashnode.dev/how-to-pass-your-certification-exam)
 - [An Introduction to LINQ](https://lovelacecoding.hashnode.dev/an-introduction-to-linq)
 - [Grow Your Twitter Account From 0 to 25k](https://lovelacecoding.hashnode.dev/grow-your-twitter-account-from-0-to-25k)
 - [The Best Resources to Learn C# for Beginners](https://lovelacecoding.hashnode.dev/the-best-resources-to-learn-c-for-beginners)
 - [From a Woman’s Job to a Man’s World](https://lovelacecoding.hashnode.dev/from-a-womans-job-to-a-mans-world)
-- [Why You Can Be Successful Without a Mentor](https://lovelacecoding.hashnode.dev/why-you-can-be-successful-without-a-mentor)
 <!-- BLOG-POST-LIST:END -->
  
 ---
