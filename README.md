@@ -29,11 +29,11 @@ Helping the community, and community building is something I feel very passionat
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [What Are All These Boxes Doing Here?](https://lovelacecoding.hashnode.dev/what-are-all-these-boxes-doing-here)
 - [Challenge Your Skills!](https://lovelacecoding.hashnode.dev/challenge-your-skills)
 - [How to Create a Pull Request With GitHub Desktop](https://lovelacecoding.hashnode.dev/how-to-create-a-pull-request-with-github-desktop)
 - [How to Pass Your Certification Exam](https://lovelacecoding.hashnode.dev/how-to-pass-your-certification-exam)
 - [An Introduction to LINQ](https://lovelacecoding.hashnode.dev/an-introduction-to-linq)
-- [Grow Your Twitter Account From 0 to 25k](https://lovelacecoding.hashnode.dev/grow-your-twitter-account-from-0-to-25k)
 <!-- BLOG-POST-LIST:END -->
  
 
