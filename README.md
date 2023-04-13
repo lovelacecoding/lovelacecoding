@@ -1,31 +1,36 @@
-<img src="https://github.com/louelladev/louelladev/blob/main/github_banner_22.png?raw=true" alt="Banner stating Hello World! I'm Louella, Developer at Rotterdam, The Netherlands">
+<table align="center"><tr><td valign="top" width="65%">
 
-----
+# I'm Lou, nice to meet you 👋
 
-# Nice to meet you!
-Hi, nice to meet you and thank you for clicking on my GitHub profile.<br><br>
+* I'm a web developer located in Rotterdam, The Netherlands.
+* I worked on 20+ different projects as a backend .NET and TypeScript developer.
+* I love C#, .NET, and dad jokes.
+* Microsoft MVP for the category Developer Technologies since April 2023.
+* Helping the community, and knowledge sharing makes me happy ❤️
 
-I'm Louëlla Creemers, a web developer located in Rotterdam, The Netherlands. Apart from coding as my dayjob, I also help out the community with <strong>Open Source contributions</strong>, writing <strong>blog posts</strong>, <strong>public speaking</strong> and creating <strong>Twitter content.</strong> <br>
+</td><td valign="top" width="35%">
 
-Helping the community, and community building is something I feel very passionate about ❤️<br>
+# My current stack 👩‍💻
+* C#
+* TypeScript
+* .NET
+* ReactJS
+* MySQL
+* Postgres
 
-👇 Feel free to reach out on social media <br><br>
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@lovelacecoding)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louelladev/)<br>
-[![Twitter](https://img.shields.io/twitter/follow/lovelacecoding?logo=twitter&style=for-the-badge)](https://twitter.com/lovelacecoding)
+</tr></tr></table>
 
-----
-## My Toolset :woman_technologist:
-<br><strong>Languages</strong><br>
-[![CSharp, Java, PHP, Python, HTML, CSS](https://skillicons.dev/icons?i=cs,java,php,py)](https://skillicons.dev)
-<br><strong>Libraries & Frameworks</strong><br>
-[![Dotnet, React, Bootstrap, Tailwind](https://skillicons.dev/icons?i=dotnet,react,bootstrap,tailwind)](https://skillicons.dev)
-<br><strong>Databases</strong><br>
-[![sqlite, mysql, mongodb, postgres](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres)](https://skillicons.dev)
-
----
-## My GitHub Stats
-![Lou's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelacecoding&show_icons=true&theme=dark)
+<p align="center">
+ <a href="https://hashnode.com/@lovelacecoding">
+   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode badge"/>
+ </a>
+ <a href="https://www.linkedin.com/in/louelladev/">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
+ </a>
+ <a href="https://twitter.com/lovelacecoding">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
+ </a>
+</p>
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
