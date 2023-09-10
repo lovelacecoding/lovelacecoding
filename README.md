@@ -34,11 +34,11 @@
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [The Day-to-Day Life as a Junior .NET Developer](https://lovelacecoding.hashnode.dev/the-day-to-day-life-as-a-junior-net-developer)
 - [AI Tools I Used for My CS Thesis](https://lovelacecoding.hashnode.dev/ai-tools-i-used-for-my-cs-thesis)
 - [The Microsoft MVP Mystery](https://lovelacecoding.hashnode.dev/the-microsoft-mvp-mystery)
 - [Mastering the .NET CLI](https://lovelacecoding.hashnode.dev/mastering-the-net-cli)
 - [An introduction to Windows Subsystem for Linux](https://lovelacecoding.hashnode.dev/an-introduction-to-windows-subsystem-for-linux)
-- [7 Resources Every Web Developer Should Know](https://lovelacecoding.hashnode.dev/7-resources-every-web-developer-should-know)
 <!-- BLOG-POST-LIST:END -->
  
 
