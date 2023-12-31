@@ -34,11 +34,11 @@
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [Build a To-Do List App Using Python Flask, Jinja2, and SQL](https://lovelacecoding.hashnode.dev/build-a-to-do-list-app-using-python-flask-jinja2-and-sql)
 - [Learning C# in 2024? How to do it in 3 steps](https://lovelacecoding.hashnode.dev/learning-c-in-2024-how-to-do-it-in-3-steps)
 - [The Day-to-Day Life as a Junior .NET Developer](https://lovelacecoding.hashnode.dev/the-day-to-day-life-as-a-junior-net-developer)
 - [AI Tools I Used for My CS Thesis](https://lovelacecoding.hashnode.dev/ai-tools-i-used-for-my-cs-thesis)
 - [The Microsoft MVP Mystery](https://lovelacecoding.hashnode.dev/the-microsoft-mvp-mystery)
-- [Mastering the .NET CLI](https://lovelacecoding.hashnode.dev/mastering-the-net-cli)
 <!-- BLOG-POST-LIST:END -->
  
 
