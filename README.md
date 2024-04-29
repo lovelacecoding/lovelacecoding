@@ -12,11 +12,8 @@
 
 # My current stack 👩‍💻
 * C#
-* TypeScript
 * .NET
-* ReactJS
-* MySQL
-* Postgres
+* Python
 
 </tr></tr></table>
 
