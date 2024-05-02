@@ -31,7 +31,7 @@
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
-- [Modern C#: Get Started with DateOnly](https://lovelacecoding.hashnode.dev/modern-c-get-started-with-dateonly)
+- [Modern C# Development: Get Started with DateOnly](https://lovelacecoding.hashnode.dev/modern-c-get-started-with-dateonly)
 - [Modern C# Development: Record Types 101](https://lovelacecoding.hashnode.dev/modern-c-development-record-types-101)
 - [Creating a Dino API in .NET While Writing Almost No Code](https://lovelacecoding.hashnode.dev/creating-a-dino-api-in-net-while-writing-almost-no-code)
 - [Build a To-Do List App Using Python Flask, Jinja2, and SQL](https://lovelacecoding.hashnode.dev/build-a-to-do-list-app-using-python-flask-jinja2-and-sql)
