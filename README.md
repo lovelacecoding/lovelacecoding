@@ -31,11 +31,11 @@
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [Secure Your Coding: Create an SSH Key on Mac or Windows](https://lovelacecoding.hashnode.dev/secure-your-coding-create-an-ssh-key-on-mac-or-windows)
 - [Modern C# Development: Get Started With TimeOnly](https://lovelacecoding.hashnode.dev/modern-c-development-get-started-with-timeonly)
 - [Modern C# Development: Get Started with DateOnly](https://lovelacecoding.hashnode.dev/modern-c-get-started-with-dateonly)
 - [Modern C# Development: Record Types 101](https://lovelacecoding.hashnode.dev/modern-c-development-record-types-101)
 - [Creating a Dino API in .NET While Writing Almost No Code](https://lovelacecoding.hashnode.dev/creating-a-dino-api-in-net-while-writing-almost-no-code)
-- [Build a To-Do List App Using Python Flask, Jinja2, and SQL](https://lovelacecoding.hashnode.dev/build-a-to-do-list-app-using-python-flask-jinja2-and-sql)
 <!-- BLOG-POST-LIST:END -->
  
 
