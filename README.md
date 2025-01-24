@@ -31,11 +31,11 @@
 
 ## My Latest Hashnode Blog posts
  <!-- BLOG-POST-LIST:START -->
+- [Getting Started in the .NET Open Source Community: A Beginner’s Guide](https://lovelacecoding.hashnode.dev/getting-started-in-the-net-open-source-community-a-beginners-guide)
 - [How to Build Your First Python Game](https://lovelacecoding.hashnode.dev/how-to-build-your-first-python-game)
 - [Secure Your Coding: Create an SSH Key on Mac or Windows](https://lovelacecoding.hashnode.dev/secure-your-coding-create-an-ssh-key-on-mac-or-windows)
 - [Modern C# Development: Get Started With TimeOnly](https://lovelacecoding.hashnode.dev/modern-c-development-get-started-with-timeonly)
 - [Modern C# Development: Get Started with DateOnly](https://lovelacecoding.hashnode.dev/modern-c-get-started-with-dateonly)
-- [Modern C# Development: Record Types 101](https://lovelacecoding.hashnode.dev/modern-c-development-record-types-101)
 <!-- BLOG-POST-LIST:END -->
  
 
